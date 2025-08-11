@@ -7,7 +7,6 @@ import io
 # Page configuration
 st.set_page_config(
     page_title="🌱 Plant Doctor - Disease Detection",
-    page_icon="🌱",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
